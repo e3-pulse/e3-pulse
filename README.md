@@ -18,7 +18,7 @@ This repository serves as a public reference point for project information and d
 ## Documentation
 
 - Website: https://e3ecosystem.com
-- Whitepaper: https://e3ecosystem.com (PDF link forthcoming)
+- Whitepaper: https://e3ecosystem.com/docs/E3-Pulse-Whitepaper-v1.0-Feb-2026.pdf
 
 ## Disclaimer
 
