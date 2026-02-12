@@ -23,3 +23,9 @@ This repository serves as a public reference point for project information and d
 ## Disclaimer
 
 E3 Pulse is an experimental utility project. Nothing in this repository constitutes financial, investment, or legal advice.
+
+## Community & Updates
+
+Founder development updates and project context may also be shared via:
+
+https://facebook.com/bobby.given.2025
