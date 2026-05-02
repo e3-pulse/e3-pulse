@@ -18,7 +18,15 @@ This repository serves as a public reference point for project information and d
 ## Documentation
 
 - Website: https://e3ecosystem.com
-- Whitepaper: https://e3ecosystem.com/wp-content/uploads/2026/03/E³-Pulse-E3P-Whitepaper.pdf
+- Whitepaper:E3 Pulse (E3P) is live on Ethereum.
+
+The E³ Ecosystem is being built in layers:
+Pulse → foundation
+SaveStream → next layer
+ePay → later layer
+
+Whitepaper v1.2 is now live:
+https://e3ecosystem.com
 
 ## Disclaimer
 
