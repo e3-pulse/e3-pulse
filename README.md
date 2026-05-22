@@ -1,39 +1,39 @@
 # E3 Pulse (E3P)
 
-E3 Pulse (E3P) is a decentralized utility token supporting the E3 Ecosystem, focused on transparency, energy efficiency, and practical blockchain-based tools with real-world relevance.
+E3 Pulse (E3P) is the foundational utility token of the E³ Ecosystem, a layered blockchain project focused on transparency, measured growth, and practical real-world utility.
 
 ## Overview
 
-E3 Pulse is designed to function as a utility token within the E3 Ecosystem. The project emphasizes responsible participation, clear documentation, and incremental development.
+E3 Pulse serves as the live foundation layer of the E³ Ecosystem. It is designed to support a broader digital framework built around participation, structured savings, and future payment utility.
 
-This repository serves as a public reference point for project information and documentation.
+The ecosystem is being developed in layers:
+
+- **E3 Pulse (E3P)** — foundation layer, live on Ethereum
+- **SaveStream** — structured savings, tracking, and rewards layer
+- **ePay** — later payment and settlement layer
 
 ## Token Information
 
-- Token Name: E3 Pulse
-- Symbol: E3P
-- Network: Ethereum
-- Contract Address: 0x15db47a37497decaf0e41f9a822434da110e078b
+- **Token Name:** E3 Pulse
+- **Symbol:** E3P
+- **Network:** Ethereum
+- **Contract Address:** 0x15Db47a37497DECAf0E41f9a822434DA110e078B
 
 ## Documentation
 
-- Website: https://e3ecosystem.com
-- Whitepaper:E3 Pulse (E3P) is live on Ethereum.
+- **Website:** https://e3ecosystem.com
+- **Whitepaper v1.2:** https://e3ecosystem.com/wp-content/uploads/2026/05/E³-Pulse-E3P-Whitepaper-2.pdf
+- **Etherscan:** https://etherscan.io/token/0x15Db47a37497DECAf0E41f9a822434DA110e078B
+- **X:** https://x.com/E3PulseToken
 
-The E³ Ecosystem is being built in layers:
-Pulse → foundation
-SaveStream → next layer
-ePay → later layer
+## Development Status
 
-Whitepaper v1.2 is now live:
-https://e3ecosystem.com
+- E3 Pulse (E3P) is live on Ethereum
+- SaveStream is the next planned layer of the ecosystem
+- ePay is planned as the later payment and settlement layer
 
-## Disclaimer
+## Purpose
 
-E3 Pulse is an experimental utility project. Nothing in this repository constitutes financial, investment, or legal advice.
+The E³ Ecosystem is intended to connect blockchain infrastructure with practical real-world use, especially in areas related to energy efficiency, structured participation, savings, and long-term economic utility.
 
-## Community & Updates
-
-Founder development updates and project context may also be shared via:
-
-https://facebook.com/bobby.given.2025
+E3 Pulse is not presented as equity or a claim on ownership. It is a utility token designed to support interaction and alignment across current and future E³ components.
