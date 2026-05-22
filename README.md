@@ -1,5 +1,11 @@
 # E3 Pulse (E3P)
 
+Technology for Human Connection.
+
+E3 is a human-focused technology ecosystem built to strengthen connection, reward reciprocity, and create real-world value through blockchain, AI, and community-driven innovation.
+
+Our vision is simple: technology should help humanity grow stronger together.
+
 E3 Pulse (E3P) is the foundational utility token of the E³ Ecosystem, a layered blockchain project focused on transparency, measured growth, and practical real-world utility.
 
 ## Overview
